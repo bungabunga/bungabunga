@@ -11,7 +11,7 @@ background: 'background.jpg'
 favicon: 'favicon.ico'
 
 # Online profiles
-twitter: '@bungab12345'
+#twitter: '@bungab12345'
 #youtube: ''
 #github-user: ''
 #gitlab-user: ''
@@ -26,7 +26,7 @@ twitter: '@bungab12345'
 #blog_url: ''
 #email: ''
 #messenger: ''
-emailform: 'https://kontactr.com/user/xxxxxxxxxx'
+emailform: 'https://kontactr.com/user/bungabunga'
 
 # Advanced settings
 plugins:
